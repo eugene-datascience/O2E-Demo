@@ -32,27 +32,27 @@ Screenshots below show:
 ## Technologies<br />
 *Ananconda 3 (64-bit) with Jupyter Notebook<br />
 *PostreSQL 13 (64-bit)<br />
-*pgAdmin 4 (Windows), pgAdmin 4 v4.30 (released Jan. 28, 2021)
+*pgAdmin 4 v4.30 (released Jan. 28, 2021)
 
 ## Setup
 Install the following software <br />
-To open .IPYNB file (Jupyter Notebook)<br />
+To open .IPYNB file (Anaconda Navigator >> Launch Jupyter Notebook)<br />
 https://www.anaconda.com/products/individual<br /><br />
-To setup local database
+To setup local database (set any master password)
 https://www.postgresql.org/download/<br /><br />
 To access local database through admin GUI<br />
 https://www.pgadmin.org/download/pgadmin-4-windows/
 
 
 ## Code Example
-Query confirmation of data availability:  <br />
-SELECT * FROM FROM public.arxiv_rss
+Query confirms data availability:  <br />
+SELECT * FROM arxiv_rss
 
 ## Features
 List of features ready and TODOs for future development
 * Import ARXIV RSS feed and parse 
-* Write to ARXIVdata.csv
-* Write to Postgres DB
+* Write to 'ARXIVdata.csv'
+* Write to Postgres DB table 'arxiv_rss'
 * Validate Postgres DB with SQL Queries (validated 375 records, 371 stated by arXiv website)
 
 To-do list:
