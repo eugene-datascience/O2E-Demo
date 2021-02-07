@@ -42,8 +42,8 @@ https://www.postgresql.org/download/<br /><br />
 To access local database through admin GUI<br />
 https://www.pgadmin.org/download/<br />
 
-1. Anaconda Navigator >> Launch Jupyter Notebook >> Open ARXIV_O2E_PULL.IPYNB file<br />
-2. Open Postgres DB: PgAdmin4, set any master password<br />
+1. Anaconda Navigator >> Launch Jupyter Notebook >> Open O2E_ARXIV_PULL.ipynb<br />
+2. PgAdmin4, set any master password<br />
 
 ## Code Example
 Query confirms data availability:  <br />
