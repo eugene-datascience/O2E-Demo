@@ -43,7 +43,9 @@ To access local database through admin GUI<br />
 https://www.pgadmin.org/download/<br />
 
 1. Anaconda Navigator >> Launch Jupyter Notebook >> Open O2E_ARXIV_PULL.ipynb<br />
-2. PgAdmin4, set any master password<br />
+2. PgAdmin4 >> set any master password<br />
+DB credentials:<br />
+host="localhost", port = 5432, database="postgres", user="postgres", password="purplerain"
 
 ## Code Example
 Query confirms data availability:  <br />
@@ -60,7 +62,7 @@ To-do list:
 * SSH Tunneling for remote access
 
 ## Status
-Project is: complete
+Project is: ready for evaluation
 
 ## Inspiration
 Project inspired by Rupin Varma | Talent Acquisition Specialist, O2E Brands
