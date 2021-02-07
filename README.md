@@ -23,7 +23,7 @@ The validations are done in Jupytner Notebook, and also PgAdmin for the Postgres
 
 
 ## Screenshots
-![JupyterNotebook](https://github.com/eugene-datascience/O2E-Demo/jupyter notebook screenshot.jpg)<br />
+![JupyterNotebook](https://github.com/eugene-datascience/O2E-Demo/jupyternotebook.jpg)<br />
 ![Postgres](https://github.com/eugene-datascience/O2E-Demo/postgrestable.jpg)
 
 ## Technologies<br />
