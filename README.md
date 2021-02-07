@@ -35,9 +35,9 @@ Screenshots below show:
 *pgAdmin 4 v4.30 (released Jan. 28, 2021)
 
 ## Setup
-Install the following software <br />
+Install the following software: <br /> <br />
 Pyscopg Library for Python <br />
-https://www.psycopg.org/docs/install.html <br />
+https://www.psycopg.org/docs/install.html <br /> <br />
 To open Jupyter Notebook<br />
 https://www.anaconda.com/products/individual<br /><br />
 To setup local database (set any master password)<br />
