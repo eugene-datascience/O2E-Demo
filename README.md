@@ -19,7 +19,10 @@ It can be accessed at https://arxiv.org/list/cs/new, and through an RSS feed at 
 The arXiv project (pronounced "archive" – the X represents the Greek letter chi), it’s an active repository for sharing scientific research in mathematics, physics, and computer science, among others – almost all papers in the fields of mathematics and physics are self-archived on the arXiv repository.
 It’s an excellent resource as well for Artificial Intelligence and Machine Learning research.<br />
 
-The validations are done in Jupytner Notebook, and also PgAdmin for the Postgres DB. See screenshots.
+Screenshots below show:
+
+1) outputs and validations in Jupytner Notebook<br />
+2) table created and validation in PgAdmin (Postgres DB)<br />
 
 
 ## Screenshots
