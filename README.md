@@ -36,14 +36,18 @@ Screenshots below show:
 
 ## Setup
 Install the following software <br />
+Pyscopg Library for Python <br />
+https://www.psycopg.org/docs/install.html <br />
+To open Jupyter Notebook<br />
 https://www.anaconda.com/products/individual<br /><br />
 To setup local database (set any master password)<br />
 https://www.postgresql.org/download/<br /><br />
 To access local database through admin GUI<br />
 https://www.pgadmin.org/download/<br />
 
-1. Anaconda Navigator >> Launch Jupyter Notebook >> Open O2E_ARXIV_PULL.ipynb<br />
-2. PgAdmin4 >> set any master password<br />
+1. Terminal >> pip install psycopg2-binary
+2. Anaconda Navigator >> Launch Jupyter Notebook >> Open O2E_ARXIV_PULL.ipynb<br />
+3. PgAdmin4 >> set any master password<br />
 DB credentials:<br />
 host="localhost", port = 5432, database="postgres", user="postgres", password="purplerain"
 
