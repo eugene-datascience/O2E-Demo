@@ -21,7 +21,7 @@ It’s an excellent resource as well for Artificial Intelligence and Machine Lea
 
 Screenshots below show:
 
-1) outputs and validations in Jupytner Notebook<br />
+1) df, csv, and postgre outputs and validations in Jupytner Notebook<br />
 2) table created and validation in PgAdmin (Postgres DB)<br />
 
 
@@ -36,13 +36,14 @@ Screenshots below show:
 
 ## Setup
 Install the following software <br />
-To open .IPYNB file (Anaconda Navigator >> Launch Jupyter Notebook)<br />
 https://www.anaconda.com/products/individual<br /><br />
 To setup local database (set any master password)
 https://www.postgresql.org/download/<br /><br />
 To access local database through admin GUI<br />
-https://www.pgadmin.org/download/pgadmin-4-windows/
+https://www.pgadmin.org/download/pgadmin-4-windows/<br />
 
+1. Open .IPYNB file: Anaconda Navigator >> Launch Jupyter Notebook<br />
+2. Open Postgres DB: PgAdmin4, set any master password<br />
 
 ## Code Example
 Query confirms data availability:  <br />
