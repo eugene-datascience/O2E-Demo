@@ -1,0 +1,9 @@
+--LIST First 10 Records
+SELECT * FROM public.arxiv_rss
+LIMIT 10;
+
+--Validate First Record
+SELECT * FROM arxiv_rss WHERE link='http://arxiv.org/abs/2102.02204'
+
+--Count Total Records
+SELECT COUNT (*) FROM arxiv_rss
