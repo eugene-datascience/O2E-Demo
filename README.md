@@ -23,8 +23,8 @@ The validations are done in Jupytner Notebook, and also PgAdmin for the Postgres
 
 
 ## Screenshots
-![JupyterNotebook](https://github.com/eugene-datascience/O2E_Demo/jupyter notebook screenshot.jpg)<br />
-![Postgres](https://github.com/eugene-datascience/O2E_Demo/postgrestable.jpg)
+![JupyterNotebook](https://github.com/eugene-datascience/O2E-Demo/jupyter notebook screenshot.jpg)<br />
+![Postgres](https://github.com/eugene-datascience/O2E-Demo/postgrestable.jpg)
 
 ## Technologies<br />
 *Ananconda 3 (64-bit) with Jupyter Notebook<br />
