@@ -40,7 +40,7 @@ https://www.anaconda.com/products/individual<br /><br />
 To setup local database (set any master password)
 https://www.postgresql.org/download/<br /><br />
 To access local database through admin GUI<br />
-https://www.pgadmin.org/download/pgadmin-4-windows/<br />
+https://www.pgadmin.org/download/<br />
 
 1. Open .IPYNB file: Anaconda Navigator >> Launch Jupyter Notebook<br />
 2. Open Postgres DB: PgAdmin4, set any master password<br />
