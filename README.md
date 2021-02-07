@@ -12,7 +12,7 @@
 * [Contact](#contact)
 
 ## General info
-This is a data extraction, parse, and load into Postgres, which pulls metadata on the latest N paper submissions from the Computer Science arXiv, which is currently hosted by Cornell University.<br />
+This is a data extraction/parse, and load into 1) .csv file 2) PostgresDB, which pulls metadata on the latest N paper submissions from the Computer Science arXiv, which is currently hosted by Cornell University.<br />
 
 
 It can be accessed at https://arxiv.org/list/cs/new, and through an RSS feed at http://arxiv.org/rss/cs<br /><br />
@@ -42,7 +42,7 @@ https://www.postgresql.org/download/<br /><br />
 To access local database through admin GUI<br />
 https://www.pgadmin.org/download/<br />
 
-1. Open .IPYNB file: Anaconda Navigator >> Launch Jupyter Notebook<br />
+1. Anaconda Navigator >> Launch Jupyter Notebook >> Open ARXIV_O2E_PULL.IPYNB file<br />
 2. Open Postgres DB: PgAdmin4, set any master password<br />
 
 ## Code Example
