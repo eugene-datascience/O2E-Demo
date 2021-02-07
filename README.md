@@ -37,7 +37,7 @@ Screenshots below show:
 ## Setup
 Install the following software <br />
 https://www.anaconda.com/products/individual<br /><br />
-To setup local database (set any master password)
+To setup local database (set any master password)<br />
 https://www.postgresql.org/download/<br /><br />
 To access local database through admin GUI<br />
 https://www.pgadmin.org/download/<br />
