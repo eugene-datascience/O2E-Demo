@@ -47,7 +47,7 @@ https://www.pgadmin.org/download/<br />
 
 1. Terminal >> pip install psycopg2-binary
 2. Anaconda Navigator >> Launch Jupyter Notebook >> Open O2E_ARXIV_PULL.ipynb<br />
-3. PgAdmin4 >> set any master password<br />
+3. PgAdmin4 >> set any master password<br /><br />
 DB credentials:<br />
 host="localhost", port = 5432, database="postgres", user="postgres", password="purplerain"<br /><br />
 
