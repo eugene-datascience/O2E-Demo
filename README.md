@@ -67,6 +67,7 @@ List of features ready and TODOs for future development
 
 To-do list:
 * SSH Tunneling for remote access
+* Docker containers
 
 ## Status
 Project is: ready for evaluation
